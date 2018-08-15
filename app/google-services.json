@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816220134284",
+    "firebase_url": "https://meshkah2-d52ca.firebaseio.com",
+    "project_id": "meshkah2-d52ca",
+    "storage_bucket": "meshkah2-d52ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816220134284:android:fefa0ee243ae078f",
+        "android_client_info": {
+          "package_name": "com.example.windows.meshkah2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816220134284-7p4ibb57aqhotv2b1edil2028lcmcu09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.windows.meshkah2",
+            "certificate_hash": "413a66cbe7ebc30f631070d06814433971b5a4c2"
+          }
+        },
+        {
+          "client_id": "816220134284-qhf0engkgh53op8b23gk022koftqlb34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_PuPVgtNibEYEDMCZy006kzlm5tadLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816220134284-qhf0engkgh53op8b23gk022koftqlb34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
