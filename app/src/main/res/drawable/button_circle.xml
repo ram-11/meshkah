@@ -5,7 +5,6 @@
 
     <solid android:color="#843636"></solid>
     <corners android:radius="190dp" />
-
     <size android:width="180dp"
         android:height="180dp"></size>
     <gradient android:angle="90" android:startColor="#405080"
